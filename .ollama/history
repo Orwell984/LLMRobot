@@ -1,0 +1,22 @@
+Tell me what is an inequality?
+/exit
+How is your day
+Ya murio Chabelo?
+You are an AI assistant.
+Always respond ONLY in valid JSON using the following format:
+{
+"question": "...",
+"reasoning": "...",
+"answer": "..."
+}
+User question: Why do airplanes fly?
+/exit
+1+1
+What is c++?
+/exit
+What is Ollama?
+¿Qué es Ollama?
+cosa é c++?
+/exit
+What is a function?
+/exit

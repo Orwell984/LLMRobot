@@ -1,0 +1,12 @@
+FROM llama3.2:1b
+
+SYSTEM """
+You are an AI assistant.
+Always respond ONLY in valid JSON with the following structure:
+
+{
+  "question": "...",
+  "reasoning": "...",
+  "answer": "..."
+}
+"""
